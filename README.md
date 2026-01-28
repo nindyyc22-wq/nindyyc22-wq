@@ -1,4 +1,15 @@
-## Hi there 👋
+## Cindy Ngo
+### Mission Statement
+Information Technology student at Marymount University. Focusing on developing my skills of a Security Practioner. The skills include: technical proficiency, troubleshooting, and professional documentation skills. 
+
+### Toolkit
+A list of my current skills - 
+#### Operating Systems:
+WindowsOS and MacOS
+#### Languages:
+Java and Python
+
+### Highlight Reel
 
 <!--
 **nindyyc22-wq/nindyyc22-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
